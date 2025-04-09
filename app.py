@@ -1,5 +1,5 @@
 # Simple Python Program to add two numbers
-num1 = float(input("Enter the first number: "))
+num1 = float(input("Enter the first number as: "))
 num2 = float(input("Enter the second number: "))
 <<<<<<< HEAD
 sum = num1 + num2
